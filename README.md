@@ -9,7 +9,7 @@
 
 ## InoTechAP
 
-## Integrantes: <a href="Linkedin nome"">Gustavo Cesar</a>, <a href="https://www.linkedin.com/in/gustavo-moura3112">Gustavo Moura</a>, <a href="Linkedin nome"">Manoel Randon</a>, <a href="Linkedin nome"">Thiago Urias</a>
+## Integrantes: <a href="Linkedin nome"">Gustavo Cesar</a>, <a href="https://www.linkedin.com/in/gustavo-moura3112">Gustavo Moura</a>, <a href="https://br.linkedin.com/in/manoel-rondon">Manoel Rondon</a>, <a href="Linkedin nome"">Thiago Urias</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
 
