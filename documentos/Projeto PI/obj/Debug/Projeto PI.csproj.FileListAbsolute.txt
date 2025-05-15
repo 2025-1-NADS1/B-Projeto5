@@ -1,0 +1,27 @@
+C:\Users\AMD\source\repos\Projeto PI\bin\Debug\Projeto PI.exe.config
+C:\Users\AMD\source\repos\Projeto PI\bin\Debug\Projeto PI.exe
+C:\Users\AMD\source\repos\Projeto PI\bin\Debug\Projeto PI.pdb
+C:\Users\AMD\source\repos\Projeto PI\obj\Debug\Projeto PI.csproj.AssemblyReference.cache
+C:\Users\AMD\source\repos\Projeto PI\obj\Debug\Projeto_PI.Form1.resources
+C:\Users\AMD\source\repos\Projeto PI\obj\Debug\Projeto_PI.Properties.Resources.resources
+C:\Users\AMD\source\repos\Projeto PI\obj\Debug\Projeto PI.csproj.GenerateResource.cache
+C:\Users\AMD\source\repos\Projeto PI\obj\Debug\Projeto PI.csproj.CoreCompileInputs.cache
+C:\Users\AMD\source\repos\Projeto PI\obj\Debug\Projeto PI.exe
+C:\Users\AMD\source\repos\Projeto PI\obj\Debug\Projeto PI.pdb
+C:\Users\AMD\source\repos\Projeto PI\obj\Debug\Projeto_PI.dashboard.resources
+C:\Users\AMD\OneDrive\Área de Trabalho\Projeto PI\bin\Debug\Projeto PI.exe.config
+C:\Users\AMD\OneDrive\Área de Trabalho\Projeto PI\bin\Debug\Projeto PI.exe
+C:\Users\AMD\OneDrive\Área de Trabalho\Projeto PI\bin\Debug\Projeto PI.pdb
+C:\Users\AMD\OneDrive\Área de Trabalho\Projeto PI\obj\Debug\Projeto PI.csproj.AssemblyReference.cache
+C:\Users\AMD\OneDrive\Área de Trabalho\Projeto PI\obj\Debug\Projeto_PI.dashboard.resources
+C:\Users\AMD\OneDrive\Área de Trabalho\Projeto PI\obj\Debug\Projeto_PI.Form1.resources
+C:\Users\AMD\OneDrive\Área de Trabalho\Projeto PI\obj\Debug\Projeto_PI.Properties.Resources.resources
+C:\Users\AMD\OneDrive\Área de Trabalho\Projeto PI\obj\Debug\Projeto PI.csproj.GenerateResource.cache
+C:\Users\AMD\OneDrive\Área de Trabalho\Projeto PI\obj\Debug\Projeto PI.csproj.CoreCompileInputs.cache
+C:\Users\AMD\OneDrive\Área de Trabalho\Projeto PI\obj\Debug\Projeto PI.exe
+C:\Users\AMD\OneDrive\Área de Trabalho\Projeto PI\obj\Debug\Projeto PI.pdb
+C:\Users\AMD\OneDrive\Área de Trabalho\Projeto PI\obj\Debug\Projeto_PI.Quarto1.resources
+C:\Users\AMD\OneDrive\Área de Trabalho\Projeto PI\obj\Debug\Projeto_PI.Cozinha.resources
+C:\Users\AMD\OneDrive\Área de Trabalho\Projeto PI\obj\Debug\Projeto_PI.Piscina.resources
+C:\Users\AMD\OneDrive\Área de Trabalho\Projeto PI\obj\Debug\Projeto_PI.Quarto2.resources
+C:\Users\AMD\OneDrive\Área de Trabalho\Projeto PI\obj\Debug\Projeto_PI.Sala.resources
