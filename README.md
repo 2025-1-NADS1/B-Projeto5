@@ -1,113 +1,67 @@
-
 # FECAP - Fundação de Comércio Álvares Penteado
+
 
 <p align="center">
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
 # Nome do Projeto
+# **<span style="font-size:22px;">Planet Smart - Dashboard Interativo</span>**
 
-## InoTechAP
+## **<span style="font-size:30px;">InoTechAP</span>**
 
-## Integrantes: <a href="Linkedin nome"">Gustavo Cesar Palidancikas</a>, <a href="https://www.linkedin.com/in/gustavo-moura3112">Gustavo Moura</a>, <a href="https://br.linkedin.com/in/manoel-rondon">Manoel Rondon</a>, <a href="Linkedin nome"">Thiago Urias</a>
-
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
-
-## Descrição
+ ## 📷 Imagem Representativa  
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+  <img src="https://github.com/user-attachments/assets/271b3f58-0438-46ed-8020-1265cad89e96" alt="INOTECHAP - Dashboard Inteligente" width="400">
 </p>
 
+## 🏆 Integrantes  
+- Gustavo Cesar Palidancikas  
+- [Gustavo Moura](https://www.linkedin.com/in/gustavo-moura3112)  
+- [Manoel Rondon](https://br.linkedin.com/in/manoel-rondon)  
+- Thiago Urias  
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
-<br><br>
+## Descrição  
 
-## 🛠 Estrutura de pastas
+O **InoTechAP** é um projeto inovador voltado para **automação, sustentabilidade e gamificação**. Desenvolvemos um **dashboard gamificado** para a empresa **Flex**, com o objetivo de proporcionar um sistema de **autocontrole dos aparelhos**, como iluminação e outros dispositivos eletrônicos.  
 
--Raiz<br>
-|<br>
-|-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
-|-->imagens<br>
-|-->src<br>
-  &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
-|readme.md<br>
+O projeto visa **automatizar processos**, garantindo **eficiência operacional** e promovendo a **sustentabilidade** por meio da **otimização do consumo de energia**. Além disso, a abordagem **gamificada** incentiva a **economia** e a **preservação do planeta**, tornando a experiência do usuário mais **engajadora** e **interativa**.  
+## 🔍 Funcionalidade do Dashboard  
 
-A pasta raiz contem dois arquivos que devem ser alterados:
+O **dashboard gamificado do InoTechAP** foi desenvolvido para apoiar usuários e empresários no gerenciamento eficiente de seus recursos, proporcionando controle detalhado dos gastos e **automação inteligente** para residências e empresas.  
 
-<b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
+A plataforma oferece informações precisas sobre consumo energético, permitindo a identificação de oportunidades de economia e otimização dos recursos, contribuindo para um mundo mais sustentável. Com sua abordagem inovadora, o sistema incentiva a adoção de práticas responsáveis e a redução do impacto ambiental, aliando tecnologia e sustentabilidade de forma estratégica.  
 
-Há também 4 pastas que seguem da seguinte forma:
 
-<b>documentos</b>: Toda a documentação estará nesta pasta.
+### 📌 Recursos principais  
+- **Monitoramento em tempo real** → Exibição de consumo de energia dos dispositivos conectados.  
+- **Controle remoto** → Possibilidade de ligar, desligar ou ajustar configurações dos aparelhos à distância.  
+- **Otimização de energia** → Sugestões inteligentes para reduzir o consumo e aumentar a eficiência operacional.  
+- **Gamificação** → Sistema de recompensas para incentivar práticas sustentáveis e economia de energia.  
+- **Relatórios personalizados** → Geração de insights sobre uso energético e desempenho dos dispositivos.  
 
-<b>executáveis</b>: Binários e executáveis do projeto devem estar nesta pasta.
+### 🚀 Benefícios  
+✔ **Redução de custos operacionais** com melhor gerenciamento de energia.  
+✔ **Práticas sustentáveis** para apoiar a preservação do meio ambiente.  
+✔ **Maior engajamento** dos usuários por meio de elementos de gamificação.  
+✔ **Facilidade de uso** através de interface intuitiva e acessível.  
+✔ **Automação inteligente** para maior controle e eficiência dos dispositivos.  
 
-<b>imagens</b>: Imagens do sistema
 
-<b>src</b>: Pasta que contém o código fonte.
+## 🛠 Estrutura de Pastas  
+A organização do projeto segue a seguinte estrutura:
+Raiz | |--> documentos | |--> antigos | |--> Documentação.docx |--> executáveis | |--> windows | |--> android | |--> HTML |--> imagens |--> src | |--> Backend | |--> Frontend |--> readme.md
 
-## 🛠 Instalação
+🔗 **Repositório do Projeto**  
+O código-fonte completo pode ser acessado no **GitHub**: [2025-1-NADS1/B-Projeto5](https://github.com/2025-1-NADS1/B-Projeto5.git)
 
-<b>Android:</b>
+## 🎓 Referências  
+Aqui estão algumas das referências utilizadas no desenvolvimento do projeto:  
 
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
+1. [Canal FrediDev no YouTube](https://www.youtube.com/@FrediDev)  
+2. [Canal Marco Man Channel no YouTube](https://www.youtube.com/@marcomanchannel)  
+3. [Curso da Alura - Formação Windows Forms C#](https://www.alura.com.br/formacao-windows-forms-csharp)  
 
-```sh
-Coloque código do prompt de comnando se for necessário
-```
+---
 
-<b>Windows:</b>
-
-Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
-<b>HTML:</b>
-
-Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
-
-## 💻 Configuração para Desenvolvimento
-
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
-
-Para abrir este projeto você necessita das seguintes ferramentas:
-
--<a href="https://godotengine.org/download">GODOT</a>
-
-```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
-```
-
-## 📋 Licença/License
-Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
-
-## 🎓 Referências
-
-Aqui estão as referências usadas no projeto.
-
-1. <https://github.com/iuricode/readme-template>
-2. <https://github.com/gabrieldejesus/readme-model>
-3. <https://chooser-beta.creativecommons.org/>
-4. <https://freesound.org/>
-5. <https://www.toptal.com/developers/gitignore>
-6. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
